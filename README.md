@@ -21,11 +21,15 @@
 
 This project focuses on various attacks/defense scenarios to assess the security posture of systems and networks. The tests are organized into different categories, each targeting specific areas of security.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=for+educational+and+ethical+purposes+only; Use+responsibly+and+adhere+to+legal+standards!;The+author+is+not+responsible+for+misuse! &font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000">
+</p>
+
 ## LINKS
 
-[RED TEAM](https://github.com/OP3N1T-SECURITY/OP3N1T-SECURITY/blob/main/ATTACKS_REDTEAM/README.md)
+[RED TEAM (Private Link)](https://github.com/OP3N1T-SECURITY/OP3N1T-SECURITY/blob/main/ATTACKS_REDTEAM/README.md)
 
-[BLUE TEAM](https://github.com/OP3N1T-SECURITY/OP3N1T-SECURITY/blob/main/DEFENCE_BLUETEAM/README.md)
+[BLUE TEAM (Private Link)](https://github.com/OP3N1T-SECURITY/OP3N1T-SECURITY/blob/main/DEFENCE_BLUETEAM/README.md)
 
 ## Attack/Defence Categories
 
